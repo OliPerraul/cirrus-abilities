@@ -1,0 +1,4 @@
+﻿//if(Control.Interaction.TargetInteraction.Use())
+//{
+//	return true;
+//}
