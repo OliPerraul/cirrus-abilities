@@ -1,5 +1,5 @@
-# cirrus-abilities
-## Action rpg ability framework for Unity
+# cirrus-abilities 
+## Action rpg ability framework for Unity (Work in progress)
 
 ### Abilities
 * Abilities represent the base for a number of object types including items, skills (active/passive)
